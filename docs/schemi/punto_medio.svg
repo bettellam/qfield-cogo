@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 170" width="360" height="255" role="img" aria-label="Punto medio">
+<defs>
+  <pattern id="quad" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M12 0H0V12" fill="none" stroke="#e7ecf0" stroke-width="1"/></pattern>
+  <marker id="ar" viewBox="0 0 8 8" refX="7.5" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L8 4L0 8z" class="mk"/></marker>
+  <style>
+.k{fill:#232a31} .c{fill:#ffffff;stroke:#c8102e;stroke-width:2} .cd{fill:#c8102e}
+.ln{stroke:#232a31;stroke-width:1.7;fill:none} .rl{stroke:#c8102e;stroke-width:1.8;fill:none}
+.cn{stroke:#8a949e;stroke-width:1.1;stroke-dasharray:4 3;fill:none}
+.dm{stroke:#1f5fa8;stroke-width:1.1;fill:none} .ar{stroke:#1f5fa8;stroke-width:1.1;fill:none}
+text{font:500 12px "Barlow",system-ui,"Segoe UI",Arial,sans-serif;fill:#232a31}
+.bd{fill:#e7ecf0;stroke:#232a31;stroke-width:1.4}
+.tb{fill:#1f5fa8} .tr{fill:#c8102e} .tm{fill:#5d6872} .mk{fill:#1f5fa8}
+</style>
+</defs>
+<rect x="0" y="0" width="240" height="170" fill="#ffffff"/>
+<rect x="0" y="0" width="240" height="170" fill="url(#quad)"/>
+  <line class="ln" x1="40" y1="110" x2="200" y2="60"/>
+  <line class="dm" x1="77.6" y1="89.9" x2="82.4" y2="105.1"/><line class="dm" x1="157.6" y1="64.9" x2="162.4" y2="80.1"/>
+  <text x="66" y="84" class="tb">L/2</text><text x="146" y="58" class="tb">L/2</text>
+  <circle class="k" cx="40" cy="110" r="3.5"/><circle class="k" cx="200" cy="60" r="3.5"/>
+  <circle class="c" cx="120" cy="85" r="5"/><circle class="cd" cx="120" cy="85" r="1.6"/>
+  <text x="28" y="128">A</text><text x="206" y="56">B</text><text x="118" y="106" class="tr">M</text>
+</svg>

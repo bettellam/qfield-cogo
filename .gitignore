@@ -1,0 +1,6 @@
+dist/
+*.zip
+*~
+~$*
+.vscode/
+Thumbs.db

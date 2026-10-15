@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 170" width="360" height="255" role="img" aria-label="Angolo e distanza da linea">
+<defs>
+  <pattern id="quad" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M12 0H0V12" fill="none" stroke="#e7ecf0" stroke-width="1"/></pattern>
+  <marker id="ar" viewBox="0 0 8 8" refX="7.5" refY="4" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L8 4L0 8z" class="mk"/></marker>
+  <style>
+.k{fill:#232a31} .c{fill:#ffffff;stroke:#c8102e;stroke-width:2} .cd{fill:#c8102e}
+.ln{stroke:#232a31;stroke-width:1.7;fill:none} .rl{stroke:#c8102e;stroke-width:1.8;fill:none}
+.cn{stroke:#8a949e;stroke-width:1.1;stroke-dasharray:4 3;fill:none}
+.dm{stroke:#1f5fa8;stroke-width:1.1;fill:none} .ar{stroke:#1f5fa8;stroke-width:1.1;fill:none}
+text{font:500 12px "Barlow",system-ui,"Segoe UI",Arial,sans-serif;fill:#232a31}
+.bd{fill:#e7ecf0;stroke:#232a31;stroke-width:1.4}
+.tb{fill:#1f5fa8} .tr{fill:#c8102e} .tm{fill:#5d6872} .mk{fill:#1f5fa8}
+</style>
+</defs>
+<rect x="0" y="0" width="240" height="170" fill="#ffffff"/>
+<rect x="0" y="0" width="240" height="170" fill="url(#quad)"/>
+  <line class="ln" x1="50" y1="110" x2="210" y2="110"/>
+  <path class="ar" d="M80 110 A30 30 0 0 0 74 92" marker-end="url(#ar)"/>
+  <text x="82" y="100" class="tb">−α</text>
+  <line class="dm" x1="50" y1="110" x2="146" y2="38" marker-end="url(#ar)"/>
+  <text x="90" y="64" class="tb">d</text>
+  <circle class="k" cx="50" cy="110" r="3.5"/><circle class="k" cx="210" cy="110" r="3.5"/>
+  <circle class="c" cx="150" cy="35" r="5"/><circle class="cd" cx="150" cy="35" r="1.6"/>
+  <text x="38" y="128">A</text><text x="206" y="128">R</text><text x="158" y="32" class="tr">P</text>
+</svg>

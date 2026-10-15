@@ -1,0 +1,7 @@
+[general]
+name=COGO linea A-B
+description="Punti sulla retta A-B con distanze al suolo (piano ENU locale). Punto medio, distanza da A o B, divisione in N parti, punti a passo fisso, progressiva e scostamento, piede della perpendicolare, angolo e distanza, intersezione distanza-distanza."
+author=Mauro Bettella
+icon=icon.svg
+version=0.6.1
+homepage=https://github.com/bettellam/qfield-cogo
