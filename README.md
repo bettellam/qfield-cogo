@@ -25,9 +25,15 @@ Il plugin misura α in senso orario, come gli azimut. Nello schema "Angolo e dis
 
 ## Installazione
 
-1. Scarica lo zip `cogo_linea-vX.Y.Z.zip` dalla pagina [Releases](../../releases).
-2. In QField apri **Impostazioni → Plugin** e installa il plugin dallo zip, oppure dall'indirizzo dello zip.
-3. Attiva il plugin. Nella barra degli strumenti compare il pulsante *COGO linea A-B*.
+**Da URL (il modo più semplice).** In QField apri **Impostazioni → Plugin → Installa plugin da URL** e incolla:
+
+```
+https://github.com/bettellam/qfield-cogo/releases/download/v0.6.1/cogo_linea-v0.6.1.zip
+```
+
+Poi attiva il plugin: nella barra degli strumenti compare il pulsante *COGO linea A-B*.
+
+**Da file.** Scarica lo zip dalla pagina [Releases](../../releases) e installalo dal gestore plugin di QField.
 
 In alternativa puoi copiare a mano la cartella `cogo_linea/` nella cartella dei plugin di QField:
 
